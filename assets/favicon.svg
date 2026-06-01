@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ten Lists icon">
+  <rect width="64" height="64" rx="16" fill="#111827"/>
+  <rect x="7" y="7" width="50" height="50" rx="12" fill="none" stroke="#b88a4a" stroke-width="2"/>
+  <path d="M17 18v28M23 18v28M29 18v28" stroke="#f5f0e7" stroke-opacity=".28" stroke-width="1.6"/>
+  <text x="32" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#f5f0e7">TL</text>
+  <rect x="21" y="47" width="22" height="2.5" rx="1.25" fill="#b88a4a"/>
+</svg>
