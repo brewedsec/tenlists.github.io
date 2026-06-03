@@ -19,14 +19,6 @@ If you just finished Day 9, enter Day 10.
 - `manifest.webmanifest` — Home Screen/PWA metadata
 - `assets/` — icons
 
-## Deploy to GitHub Pages
-
-1. Unzip this package.
-2. Copy all files into your GitHub Pages repo root.
-3. Commit and push.
-4. Open your Pages URL.
-5. On iPhone, open in Safari and use Share → Add to Home Screen.
-
 ## Day logic
 
 Day 1 is the first chapter in every list. Day 2 is the second chapter in every list. When a list reaches its end, it wraps back to the beginning.
